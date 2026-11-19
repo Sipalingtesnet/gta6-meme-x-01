@@ -25,7 +25,7 @@ runner-up variant (a skeleton gamer still waiting at his TV).
 
 ## The post
 
-Posted from [@nurkhalifa23](https://x.com/nurkhalifa23) on X (the post does
+Posted from a public X account (the post does
 not exist yet — `POST.json` holds the placeholder until it is posted):
 
 > Waited 13 years for GTA 6. My AI agent waited 13 seconds — and already
